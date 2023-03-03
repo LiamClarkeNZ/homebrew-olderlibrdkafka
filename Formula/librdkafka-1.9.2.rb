@@ -1,4 +1,4 @@
-class Librdkafka < Formula
+class Librdkafka192 < Formula
   desc "Apache Kafka C/C++ library"
   homepage "https://github.com/edenhill/librdkafka"
   url "https://github.com/edenhill/librdkafka/archive/refs/tags/v1.9.2.tar.gz"
